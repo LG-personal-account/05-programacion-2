@@ -5,7 +5,7 @@
 # Usala para imprimir los cuadrados del 1 al 10.
 #
 # NOTA: El caracter superíndice ² se puede escribir
-# con la combinación de teclas Alt + 0178 
+# con la combinación de teclas Alt + 0178
 # ---------------------------------------------------
 
 

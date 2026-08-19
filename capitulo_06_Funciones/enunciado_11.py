@@ -12,4 +12,4 @@ def descuento(precio, porcentaje=10):
 
 print(descuento(1000))
 print(descuento(1000, 25))
-print(descuento(1000, porcentaje=50))
+print(f"{descuento(1000, porcentaje=50):.2f}")

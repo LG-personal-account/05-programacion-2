@@ -1,0 +1,7 @@
+# ENUNCIADO 10
+# Invertí este diccionario: {"a": 1, "b": 2, "c": 3} -> {1: "a", 2: "b", 3: "c"}.
+
+
+original = {"a": 1, "b": 2, "c": 3}
+invertido = {v: k for k, v in original.items()}
+print(invertido)

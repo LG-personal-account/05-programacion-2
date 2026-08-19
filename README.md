@@ -8,3 +8,5 @@ En la carpeta MANUAL encontrarás el **MANUAL DE PROGRAMACIÓN 2** donde:
 3- Aprendemos a usar un framework, DJANGO,
 4- Explicamos Docker y deploy,
 5- Nos adentramos al uso de agentes generadores de código
+
+IMPORTANTE: Se está actualizando capitulo 6 a 8

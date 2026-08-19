@@ -4,6 +4,10 @@
 # Escribí una función saludar(nombre, idioma="es") que devuelva
 # "Hola, {nombre}!" en español, "Hello, {nombre}!" en inglés,
 # o "Ciao, {nombre}!" en italiano.
+#
+# PREGUNTA: ¿Qué pasa si el idioma no es ninguno de los tres?
+#
+# PREGUNTA: ¿Qué pasa si no pasamos el segundo parámetro?
 # ---------------------------------------------------------------
 
 

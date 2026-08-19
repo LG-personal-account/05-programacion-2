@@ -13,5 +13,5 @@ def es_bisiesto(año):
 
 print(es_bisiesto(2024))
 print(es_bisiesto(2023))
-print(es_bisiesto(2000))
-print(es_bisiesto(1900))
+print(es_bisiesto(2100))
+print(es_bisiesto(1600))

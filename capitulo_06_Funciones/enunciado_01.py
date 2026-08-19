@@ -3,6 +3,9 @@
 # Enunciado 1:
 # Escribí una función cuadrado(x) que devuelva x².
 # Usala para imprimir los cuadrados del 1 al 10.
+#
+# NOTA: El caracter superíndice ² se puede escribir
+# con la combinación de teclas Alt + 0178 
 # ---------------------------------------------------
 
 

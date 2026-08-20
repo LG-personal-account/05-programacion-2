@@ -1,5 +1,10 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------------------------------------------------
 # ENUNCIADO 14
-# Dada la lista de precios [500, 1200, 800, 1500, 950, 2000, 3500], calculá con una comprensión generadora dentro de sum() la suma total, y el promedio.
+# Dada la lista de precios [500, 1200, 800, 1500, 950, 2000, 3500],
+# calculá con una comprensión generadora dentro de sum() la
+# suma total, y el promedio.
+# -----------------------------------------------------------------------------
 
 
 precios = [500, 1200, 800, 1500, 950, 2000, 3500]

@@ -1,5 +1,9 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------------------------------------------------
 # ENUNCIADO 9
-# Dado un texto, generá un diccionario {palabra: longitud} con cada palabra única y su cantidad de letras.
+# Dado un texto, generá un diccionario {palabra: longitud} con cada
+# palabra única y su cantidad de letras.
+# -----------------------------------------------------------------------------
 
 
 texto = input("Texto: ")

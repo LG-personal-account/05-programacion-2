@@ -1,5 +1,10 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------------------------------------------------
 # ENUNCIADO 17
-# Con el mismo diccionario del ejercicio 16, calculá el valor total del inventario (precio × stock, sumados) usando una comprensión generadora dentro de sum().
+# Con el mismo diccionario del ejercicio 16, calculá el valor
+# total del inventario (precio × stock, sumados) usando una
+# comprensión generadora dentro de sum().
+# -----------------------------------------------------------------------------
 
 
 catalogo = {

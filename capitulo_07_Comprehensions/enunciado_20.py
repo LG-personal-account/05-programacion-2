@@ -1,5 +1,9 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------------------------------------------------
 # ENUNCIADO 20
-# Dado un diccionario de alumnos con notas por materia, generá un diccionario {nombre: promedio} usando comprensión de diccionario.
+# Dado un diccionario de alumnos con notas por materia, generá
+# un diccionario {nombre: promedio} usando comprensión de diccionario.
+# -----------------------------------------------------------------------------
 
 
 alumnos = {

@@ -1,5 +1,9 @@
+# -*- coding: utf-8 -*-
+# -----------------------------------------------------------------------------
 # ENUNCIADO 12
-# Dada una lista de palabras, obtené el set de las que empiezan con vocal.
+# Dada una lista de palabras, obtené el set de las que empiezan
+# con vocal.
+# -----------------------------------------------------------------------------
 
 
 palabras = ["mesa", "árbol", "sol", "escuela", "isla", "banana", "uva"]

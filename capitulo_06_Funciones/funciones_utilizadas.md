@@ -846,15 +846,15 @@ sorted(lista, reverse=True)[:n]   # Los n mayores elementos
 
 ## Resumen por Categoría
 
-| Categoría                       | Elementos                                                                       |
-| ------------------------------- | ------------------------------------------------------------------------------- |
-| **Funciones built-in**          | `help`, `input`, `int`, `len`, `max`, `min`, `print`, `range`, `sorted`, `sum`  |
-| **Métodos de `str`**            | `center`, `isdigit`, `lower`, `replace`, `split`, `startswith`, `upper`         |
-| **Métodos de `list`**           | `append`                                                                        |
-| **Métodos de `dict`**           | `get`, `items`, `update`                                                        |
-| **Módulo `math`**               | `isqrt`                                                                         |
-| **Módulo `time`**               | `time`                                                                          |
-| **Construcciones del lenguaje** | parámetros por defecto, `**kwargs`, `lambda`, `key=lambda`, retorno múltiple, docstrings, `[::-1]`, `[:n]` |
+| Categoría                       | Elementos                                                                                                    |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Funciones built-in**          | `help`, `input`, `int`, `len`, `max`, `min`, `print`, `range`, `sorted`, `sum`                               |
+| **Métodos de `str`**            | `center`, `isdigit`, `lower`, `replace`, `split`, `startswith`, `upper`                                      |
+| **Métodos de `list`**           | `append`                                                                                                     |
+| **Métodos de `dict`**           | `get`, `items`, `update`                                                                                     |
+| **Módulo `math`**               | `isqrt`                                                                                                      |
+| **Módulo `time`**               | `time`                                                                                                       |
+| **Construcciones del lenguaje** | parámetros por defecto, `**kwargs`, `lambda`, `key=lambda`, retorno múltiple, docstrings, `[::-1]`, `[:n]`   |
 
 ---
 

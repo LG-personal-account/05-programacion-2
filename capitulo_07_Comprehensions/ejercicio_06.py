@@ -8,7 +8,9 @@
 # -----------------------------------------------------------------------------
 
 frase = "el perro y el gato y el perro"
-# [expresión for elemento in colección]
+
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
 # [toda palabra en lista de palabras de frase generada por split()]
 unicas = {palabra for palabra in frase.split()}
 print(unicas)

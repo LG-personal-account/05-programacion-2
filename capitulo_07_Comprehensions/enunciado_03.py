@@ -8,7 +8,8 @@
 
 palabras = ["hola", "mundo", "python"]
 
-# [expresión for elemento in colección]
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos?]
 # [pasar a mayúscula toda palabra en palabras]
 mayus = [p.upper() for p in palabras]
 print(mayus)

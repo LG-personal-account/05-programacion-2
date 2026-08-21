@@ -7,7 +7,8 @@
 
 nombres = ["Ana", "Juan", "Pedro", "Lucía"]
 
-# [expresión for elemento in colección]
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos?]
 # Es un diccionario con clave:valor, donde la clave es el nombre y el valor
 # es la longitud del nombre. Por eso usamos llaves {} en lugar de corchetes [].
 # [por cada nombre guarda, nombre:largo por cada nombre de nombres]

@@ -7,7 +7,8 @@
 
 numeros = [3, 8, -2, 7, -5, 0, 12, -4]
 
-# [expresión for elemento in colección]
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos?]
 # [valor absoluto de cada numero en numeros]
 absolutos = [abs(n) for n in numeros]
 print(absolutos)

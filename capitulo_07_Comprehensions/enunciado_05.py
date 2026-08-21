@@ -8,8 +8,9 @@
 
 texto = input("Texto: ")
 
-# [expresión for elemento in colección]
-# [Para encontrar los lugares que aparece la letra a, pedimos: 
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
+# [Para encontrar los lugares que aparece la letra a, pedimos:}
 # toda posición por indice de letra in un texto enumerado y
 # pasado a minúscula de letra que coincida con la pedida]
 posiciones = [i for i, letra in enumerate(texto.lower()) if letra == "a"]

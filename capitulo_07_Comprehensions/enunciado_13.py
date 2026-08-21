@@ -8,5 +8,10 @@
 
 
 numeros = [7, 3, 3, 5, 9, 7, 2, 5, 9, 9]
+
+# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
+# colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
+# Colección destino (repetidos) = [¿Qué hago con los datos? se guardan como
+# vienen - for elemento in colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
 repetidos = {n for n in numeros if numeros.count(n) > 1}
 print(repetidos)

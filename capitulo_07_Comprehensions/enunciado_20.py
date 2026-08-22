@@ -12,6 +12,15 @@ alumnos = {
     "Pedro": {"Matemática": 10, "Programación": 7, "Física": 9}
 }
 
+# -----------------------------------------------------------------------------
+# Colección destino: promedios
+# Que tipo de colección destino quiero: diccionario {}
+# Cómo guardo los datos: nombre: sum(materias.values()) / len(materias)
+# (clave: promedio de notas)
+# Cómo obtengo los datos: nombre, materias (desempaquetado de cada tupla)
+# Desde que colección: alumnos.items()
+# Filtrado previo: ninguno
+# -----------------------------------------------------------------------------
 promedios = {
     nombre: sum(materias.values()) / len(materias)
     for nombre, materias in alumnos.items()

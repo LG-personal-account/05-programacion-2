@@ -9,12 +9,15 @@
 
 precios = {"pan": 500, "leche": 800, "queso": 1200, "yerba": 3000}
 
-# Colección destino = {expresión - ¿Qué hago con los datos? - for elemento in
-# colección - ¿De dónde saco los datos? - ¿Que datos quiero?}
-# creo la colección en_dolares = {¿Que hago con los datos?
-# armo una clave producto: y un valor (precio en dolares con 2 decimales) -
-# ¿Que recibo? una tupla (producto, precio) cuyos elementos guardo en producto
-# y precio - ¿De dónde saco los datos? precios.items() de la colección precios}
+# -----------------------------------------------------------------------------
+# Colección destino: en_dolares
+# Que tipo de colección destino quiero: diccionario {}
+# Cómo guardo los datos: producto: round(precio / 1000, 2)
+# (clave: precio redondeado en dólares)
+# Cómo obtengo los datos: producto, precio (desempaquetado de cada tupla)
+# Desde que colección: precios.items()
+# Filtrado previo: ninguno
+# -----------------------------------------------------------------------------
 en_dolares = {
     producto: round(precio / 1000, 2)
     for producto, precio in precios.items()

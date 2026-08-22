@@ -16,6 +16,14 @@ catalogo = {
     "yerba": {"precio": 3500, "stock": 15}
 }
 
+# -----------------------------------------------------------------------------
+# Colección destino: disponibles
+# Que tipo de colección destino quiero: lista []
+# Cómo guardo los datos: producto (el nombre del producto sin modificar)
+# Cómo obtengo los datos: producto, datos (desempaquetado de cada tupla)
+# Desde que colección: catalogo.items()
+# Filtrado previo: datos["stock"] > 0 (solo productos con stock disponible)
+# -----------------------------------------------------------------------------
 disponibles = [
     producto
     for producto, datos in catalogo.items()

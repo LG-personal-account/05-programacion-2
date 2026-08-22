@@ -8,13 +8,14 @@
 
 original = {"a": 1, "b": 2, "c": 3}
 
-# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
-# colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
-# Repasando diccionario: original.items() devuelve una lista de tuplas
-# [(clave, valor), (clave, valor), ...]
-# Otras funciones usadas son original.keys() que devuelve una lista de claves y
-# original.values() que devuelve una lista de valores.
-# Aquí {armo valor:clave, buscando por cada clave en original usando .items()
-# para recibir cada tupla (clave, valor)}
+# -----------------------------------------------------------------------------
+# Colección destino: invertido
+# Que tipo de colección destino quiero: diccionario {}
+# Cómo guardo los datos: v: k (valor original como nueva clave, clave original
+# como nuevo valor)
+# Cómo obtengo los datos: k, v (desempaquetado de cada tupla)
+# Desde que colección: original.items()
+# Filtrado previo: ninguno
+# -----------------------------------------------------------------------------
 invertido = {v: k for k, v in original.items()}
 print(invertido)

@@ -5,8 +5,13 @@
 # números divisibles por 3 o por 5.
 # -----------------------------------------------------------------------------
 
-# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
-# colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
-# [todo numero en rango 1 a 20 que sea divisible por 5 o 3]
+# -----------------------------------------------------------------------------
+# Colección destino: divisibles
+# Que tipo de colección destino quiero: lista []
+# Cómo guardo los datos: n (el número sin modificar)
+# Cómo obtengo los datos: n
+# Desde que colección: range(1, 21)
+# Filtrado previo: n % 3 == 0 or n % 5 == 0 (divisibles por 3 o por 5)
+# -----------------------------------------------------------------------------
 divisibles = [n for n in range(1, 21) if n % 3 == 0 or n % 5 == 0]
 print(divisibles)

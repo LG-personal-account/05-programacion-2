@@ -12,5 +12,5 @@ nombres = ["Ana", "Juan", "Pedro", "Lucía"]
 # Es un diccionario con clave:valor, donde la clave es el nombre y el valor
 # es la longitud del nombre. Por eso usamos llaves {} en lugar de corchetes [].
 # [por cada nombre guarda, nombre:largo por cada nombre de nombres]
-longitudes = {n: len(n) for n in nombres}
+longitudes = {len(n): n for n in nombres}
 print(longitudes)

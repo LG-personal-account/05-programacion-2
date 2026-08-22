@@ -10,8 +10,14 @@
 
 numeros = [15, 22, 8, 34, 7, 41, 19]
 
-# Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
-# colección - ¿De dónde saco los datos?]
-# [todo numero en numeros acompañado de su clasificación par/impar]
+# -----------------------------------------------------------------------------
+# Colección destino: clasificados
+# Que tipo de colección destino quiero: lista []
+# Cómo guardo los datos: (n, "par" if n % 2 == 0 else "impar")
+# (tupla número y clasificación)
+# Cómo obtengo los datos: n
+# Desde que colección: numeros
+# Filtrado previo: ninguno
+# -----------------------------------------------------------------------------
 clasificados = [(n, "par" if n % 2 == 0 else "impar") for n in numeros]
 print(clasificados)

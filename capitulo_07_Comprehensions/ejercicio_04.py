@@ -11,6 +11,6 @@ frase = input("Frase: ")
 # Colección destino = [expresión - ¿Qué hago con los datos? - for elemento in
 # colección - ¿De dónde saco los datos? - ¿Que datos quiero?]
 # [todo caracter de caracteres en frase si caracter es una letra]
-letras = [c for c in frase if c.isalpha()]
+letras = {c for c in frase if c.isalpha()}
 print(letras)
 print(f"Hay {len(letras)} letras en total")

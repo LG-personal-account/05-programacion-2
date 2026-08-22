@@ -11,5 +11,5 @@ En la carpeta MANUAL encontrarás el **MANUAL DE PROGRAMACIÓN 2** donde:
 5- Nos adentramos al uso de agentes generadores de código
 
 IMPORTANTE:
-Capítulo 6 ACTUALIZADO
-Se está actualizando capitulo 7 y 8
+Capítulo 7 ACTUALIZADO
+Se está actualizando capitulo 8

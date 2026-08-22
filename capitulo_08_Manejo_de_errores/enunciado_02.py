@@ -1,7 +1,14 @@
+# -*- coding: utf-8 -*-
+# -------------------------------------------------------------------------
 # ENUNCIADO 2
-# Pedile dos números y mostrar la división. Manejar por separado el caso de entrada no numérica y el de división por cero.
+# Pedile dos números y mostrar la división. Manejar por separado el
+# caso de entrada no numérica y el de división por cero.
+# -------------------------------------------------------------------------
 
 
+# float() falla con ValueError si la entrada no es numérica.
+# a / b falla con ZeroDivisionError si b es cero.
+# Cada except captura un tipo distinto de error con su propio mensaje.
 try:
     a = float(input("Numerador: "))
     b = float(input("Denominador: "))

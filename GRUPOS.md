@@ -40,7 +40,7 @@ LÓPEZ María - 45678 - marialopez
 ### Grupos TUP11
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
-**TUP11 - Grupo 1**
+### TUP11 - Grupo 1
 
 Integrantes:
 

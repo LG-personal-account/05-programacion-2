@@ -21,17 +21,17 @@ Una vez conformado el grupo, sus integrantes deberán registrarlo en este docume
 Cada grupo deberá agregar una entrada respetando exactamente el siguiente formato en un ejemplo:
 
 ```text
-**TUP11 - Grupo 1**
+**TUP11 - Grupo 1 - usuario GitHub**
 
 Integrantes:
 
-PÉREZ Juan - 12345
-GONZÁLEZ Ana - 23456
-RODRÍGUEZ Pedro - 34567
-LÓPEZ María - 45678
+PÉREZ Juan - 12345 - juan343
+GONZÁLEZ Ana - 23456 - anautn
+RODRÍGUEZ Pedro - 34567 - pedrosystems
+LÓPEZ María - 45678 - marialopez
 ```
 
-> Los nombres y legajos del ejemplo son ficticios.
+> Los nombres, legajos y usurios del ejemplo son ficticios.
 
 ---
 

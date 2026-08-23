@@ -21,7 +21,7 @@ Una vez conformado el grupo, sus integrantes deberán registrarlo en este docume
 Cada grupo deberá agregar una entrada respetando exactamente el siguiente formato en un ejemplo:
 
 ```text
-**TUP11 - Grupo 1 - usuario GitHub**
+**TUP11 - Grupo 2 - usuario GitHub**
 
 Integrantes:
 
@@ -40,6 +40,18 @@ LÓPEZ María - 45678 - marialopez
 ### Grupos TUP11
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
+**TUP11 - Grupo 2 **
+
+Integrantes:
+
+BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
+
+SALAS Ciro - 37044 - Github: CiroSalas
+
+ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
+
+
+
 ### TUP11 - Grupo 1
 
 Integrantes:

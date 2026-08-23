@@ -71,11 +71,11 @@ GREGORI Ariel - 36717 - Ari-GG1
 
 Integrantes:
 
-COELLO Palacios Helen - 36858
+COELLO Palacios Helen - 36858 - helc25
 
-GONZALO Cayssials Nahuel - 36855
+GONZALO Cayssials Nahuel - 36855 - Gonzadeveloper
 
-PATRICIO Pereyra Damian - 935586
+PATRICIO Pereyra Damian - 935586 - DamianPereyra-creator
 
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 

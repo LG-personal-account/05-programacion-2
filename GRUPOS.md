@@ -46,7 +46,7 @@ LÓPEZ María - 45678
 ## Comisión TUP13
 
 <!-- Agregar los grupos de TUP13 debajo de esta línea -->
-**TUP13 - Grupo 1**
+### TUP13 - Grupo 1
 
 Integrantes:
 

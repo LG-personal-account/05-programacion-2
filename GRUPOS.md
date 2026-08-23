@@ -40,7 +40,7 @@ LÓPEZ María - 45678 - marialopez
 ### Grupos TUP11
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
-### TUP11 - Grupo 1
+**TUP11 - Grupo 1**
 
 Integrantes:
 
@@ -66,5 +66,18 @@ GONZALO Cayssials Nahuel - 36855
 PATRICIO Pereyra Damian - 935586
 
 SUAREZ Juan Valentin - 36613 - JuanvaSS
+
+---
+### TUP13 - Grupo 2
+
+Integrantes:
+
+FILARDO Hilda Aldana - filardohilda
+
+GOMEZ Santiago - 36715 - Santiago-Gomez14
+
+HARGUINDEGUY Camila - 36721
+
+OLIVA Nicolas - 
 
 ---

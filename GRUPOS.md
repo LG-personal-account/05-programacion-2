@@ -50,7 +50,10 @@ LÓPEZ María - 45678
 Integrantes:
 
 COELLO Palacios Helen - 36858
+
 GONZALO Cayssials Nahuel - 36855
+
 PATRICIO Pereyra Damian - 935586
+
 SUAREZ Juan Valentin - 36613
 ---

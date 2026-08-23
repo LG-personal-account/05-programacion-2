@@ -21,7 +21,7 @@ Una vez conformado el grupo, sus integrantes deberán registrarlo en este docume
 Cada grupo deberá agregar una entrada respetando exactamente el siguiente formato en un ejemplo:
 
 ```text
-**TUP11 - Grupo 1 - usuario GitHub**
+**TUP11 - Grupo 2 - usuario GitHub**
 
 Integrantes:
 
@@ -41,6 +41,19 @@ LÓPEZ María - 45678 - marialopez
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
 **TUP11 - Grupo 1**
+**TUP11 - Grupo 2 **
+
+Integrantes:
+
+BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
+
+SALAS Ciro - 37044 - Github: CiroSalas
+
+ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
+
+
+
+### TUP11 - Grupo 1
 
 Integrantes:
 
@@ -49,6 +62,16 @@ CANALES Ignacio - 36851 - LeFlip
 BARRIENTOS Raquel - 36840 - Barrientos2001
 
 GREGORI Ariel - 36717 - Ari-GG1
+
+### TUP11 - Grupo 2
+
+Nahuel Rubio - 36608 - nahuel-sng
+
+Pablo Courtis - 36862 - kourtis23
+
+Rodolfo Zualet - 36622 - rzualet
+
+Sofia Reyna - 36600 - sofiabelenreyna-a11y
 
 ---
 
@@ -59,15 +82,16 @@ GREGORI Ariel - 36717 - Ari-GG1
 
 Integrantes:
 
-COELLO Palacios Helen - 36858
+COELLO Palacios Helen - 36858 - helc25
 
-GONZALO Cayssials Nahuel - 36855
+GONZALO Cayssials Nahuel - 36855 - Gonzadeveloper
 
-PATRICIO Pereyra Damian - 935586
+PATRICIO Pereyra Damian - 935586 - DamianPereyra-creator
 
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 
 ---
+
 ### TUP13 - Grupo 2
 
 Integrantes:
@@ -81,3 +105,12 @@ HARGUINDEGUY Camila - 36721
 OLIVA Nicolas - 
 
 ---
+AMANDOLA Santiago -  - SanMar-089
+
+PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
+
+RODRIGUEZ Ariel Jacobo - 36606 - ArJacRod
+
+GALANT Luca - 935533 - LG-personal-account
+
+

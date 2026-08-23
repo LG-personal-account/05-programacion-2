@@ -50,6 +50,16 @@ BARRIENTOS Raquel - 36840 - Barrientos2001
 
 GREGORI Ariel - 36717 - Ari-GG1
 
+### TUP11 - Grupo 2
+
+Nahuel Rubio - 36608 - nahuel-sng
+
+Pablo Courtis - 36862 - kourtis23
+
+Rodolfo Zualet - 36622 - rzualet
+
+Sofia Reyna - 36600 - sofiabelenreyna-a11y
+
 ---
 
 ## Comisión TUP13

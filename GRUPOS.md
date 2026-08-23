@@ -40,6 +40,7 @@ LÓPEZ María - 45678 - marialopez
 ### Grupos TUP11
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
+**TUP11 - Grupo 1**
 **TUP11 - Grupo 2 **
 
 Integrantes:
@@ -95,6 +96,15 @@ SUAREZ Juan Valentin - 36613 - JuanvaSS
 
 Integrantes:
 
+FILARDO Hilda Aldana - filardohilda
+
+GOMEZ Santiago - 36715 - Santiago-Gomez14
+
+HARGUINDEGUY Camila - 36721
+
+OLIVA Nicolas - 
+
+---
 AMANDOLA Santiago -  - SanMar-089
 
 PASSARO Leandro Hugo - 36596 - lhpassaro-UTN

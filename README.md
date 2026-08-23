@@ -91,6 +91,6 @@ Encontrarás el **MANUAL DE PROGRAMACIÓN 2**, donde:
 
 ## Estado del manual
 
-## Último capítulo actualizado: 8
+## Último capítulo actualizado: 9
 
-Se está trabajando en el capítulo 9: **POO: Clases y objetos**.
+Se está trabajando en el capítulo 10: **POO_Encapsulamiento_y_validacion**.

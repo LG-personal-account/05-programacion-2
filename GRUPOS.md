@@ -46,5 +46,16 @@ LÓPEZ María - 45678
 ## Comisión TUP13
 
 <!-- Agregar los grupos de TUP13 debajo de esta línea -->
+**TUP13 - Grupo 1**
+
+Integrantes:
+
+COELLO Palacios Helen - 36858
+
+GONZALO Cayssials Nahuel - 36855
+
+PATRICIO Pereyra Damian - 935586
+
+SUAREZ Juan Valentin - 36613
 
 ---

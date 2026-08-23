@@ -40,6 +40,15 @@ LÓPEZ María - 45678 - marialopez
 ### Grupos TUP11
 
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
+**TUP11 - Grupo 1**
+
+Integrantes:
+
+CANALES Ignacio - 36851 - LeFlip
+
+BARRIENTOS Raquel - 36840 - Barrientos2001
+
+GREGORI Ariel - 36717 - Ari-GG1
 
 ---
 

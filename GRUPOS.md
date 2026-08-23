@@ -90,3 +90,17 @@ PATRICIO Pereyra Damian - 935586 - DamianPereyra-creator
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 
 ---
+
+### TUP13 - Grupo 2
+
+Integrantes:
+
+AMANDOLA Santiago -  - SanMar-089
+
+PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
+
+RODRIGUEZ Ariel Jacobo - 36606 - ArJacRod
+
+GALANT Luca - 935533 - LG-personal-account
+
+

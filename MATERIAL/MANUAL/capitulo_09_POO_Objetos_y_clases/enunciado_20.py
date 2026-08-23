@@ -8,6 +8,7 @@
 # "01:23:45".
 # -------------------------------------------------------------------------
 
+
 class Cronometro:
 
     def __init__(self):
@@ -32,6 +33,7 @@ class Cronometro:
             f"{self.minutos:02d}:"
             f"{self.segundos:02d}"
         )
+
 
 c = Cronometro()
 

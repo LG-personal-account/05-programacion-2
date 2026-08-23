@@ -6,6 +6,7 @@
 # promedio().
 # -------------------------------------------------------------------------
 
+
 class Estudiante:
 
     def __init__(self, nombre):
@@ -20,6 +21,7 @@ class Estudiante:
             return 0
 
         return sum(self.notas) / len(self.notas)
+
 
 ana = Estudiante("Ana")
 

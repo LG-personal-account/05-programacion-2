@@ -5,6 +5,7 @@
 # stock. Por ahora sin validar, solo resta.
 # -------------------------------------------------------------------------
 
+
 class Producto:
 
     def __init__(self, nombre, precio_unitario, stock):
@@ -17,6 +18,7 @@ class Producto:
 
     def vender(self, cantidad):
         self.stock -= cantidad
+
 
 yerba = Producto("Yerba Playadito", 3500, 20)
 

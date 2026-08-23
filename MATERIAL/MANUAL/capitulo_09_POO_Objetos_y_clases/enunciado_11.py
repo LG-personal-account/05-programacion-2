@@ -6,6 +6,7 @@
 # precio_unitario * stock.
 # -------------------------------------------------------------------------
 
+
 class Producto:
 
     def __init__(self, nombre, precio_unitario, stock):
@@ -15,6 +16,7 @@ class Producto:
 
     def valor_stock(self):
         return self.precio_unitario * self.stock
+
 
 yerba = Producto("Yerba Playadito", 3500, 20)
 

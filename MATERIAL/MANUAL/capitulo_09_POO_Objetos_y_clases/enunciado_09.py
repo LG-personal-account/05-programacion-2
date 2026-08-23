@@ -6,6 +6,7 @@
 # (resta 10, pero nunca por debajo de 0).
 # -------------------------------------------------------------------------
 
+
 class Auto:
 
     def __init__(self, marca, modelo):
@@ -21,6 +22,7 @@ class Auto:
 
         if self.velocidad_actual < 0:
             self.velocidad_actual = 0
+
 
 focus = Auto("Ford", "Focus")
 

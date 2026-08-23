@@ -5,6 +5,7 @@
 # desde el constructor. Creá dos productos e imprimí sus atributos.
 # -------------------------------------------------------------------------
 
+
 class Producto:
 
     def __init__(self, nombre, precio):

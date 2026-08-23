@@ -6,6 +6,7 @@
 # sueldo básico más un 5% por año de antigüedad.
 # -------------------------------------------------------------------------
 
+
 class Empleado:
 
     def __init__(self, nombre, sueldo_basico, antiguedad_anios):
@@ -18,6 +19,7 @@ class Empleado:
             self.sueldo_basico * 0.05 * self.antiguedad_anios
         )
         return self.sueldo_basico + aumento
+
 
 juan = Empleado("Juan Pérez", 50000, 3)
 

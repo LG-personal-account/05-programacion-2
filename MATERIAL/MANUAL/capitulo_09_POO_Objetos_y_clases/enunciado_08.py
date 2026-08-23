@@ -5,6 +5,7 @@
 # 18 o más.
 # -------------------------------------------------------------------------
 
+
 class Persona:
 
     def __init__(self, nombre, edad):
@@ -16,6 +17,7 @@ class Persona:
 
     def es_mayor(self):
         return self.edad >= 18
+
 
 ana = Persona("Ana", 25)
 juan = Persona("Juanito", 15)

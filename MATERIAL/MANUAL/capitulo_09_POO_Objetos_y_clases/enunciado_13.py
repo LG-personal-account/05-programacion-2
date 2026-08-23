@@ -6,6 +6,7 @@
 # y mes.
 # -------------------------------------------------------------------------
 
+
 class Fecha:
 
     def __init__(self, dia, mes, anio):
@@ -15,6 +16,7 @@ class Fecha:
 
     def __str__(self):
         return f"{self.dia:02d}/{self.mes:02d}/{self.anio}"
+
 
 f = Fecha(5, 7, 2026)
 

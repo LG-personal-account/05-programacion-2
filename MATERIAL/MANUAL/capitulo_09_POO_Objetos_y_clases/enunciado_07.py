@@ -5,6 +5,7 @@
 # método cumplir_años() que suma 1 a la edad.
 # -------------------------------------------------------------------------
 
+
 class Persona:
 
     def __init__(self, nombre, edad):
@@ -13,6 +14,7 @@ class Persona:
 
     def cumplir_años(self):
         self.edad += 1
+
 
 ana = Persona("Ana", 25)
 

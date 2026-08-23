@@ -5,6 +5,7 @@
 # métodos area() y perimetro().
 # -------------------------------------------------------------------------
 
+
 class Rectangulo:
 
     def __init__(self, base, altura):
@@ -17,7 +18,8 @@ class Rectangulo:
     def perimetro(self):
         return 2 * (self.base + self.altura)
 
+
 r = Rectangulo(5, 3)
 
-print(f"Área: {r.area()}")
-print(f"Perímetro: {r.perimetro()}")
+print(f"Área: {r.area()} unidades cuadradas")
+print(f"Perímetro: {r.perimetro()} unidades")

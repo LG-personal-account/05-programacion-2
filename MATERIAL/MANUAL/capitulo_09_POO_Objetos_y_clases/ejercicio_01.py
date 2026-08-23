@@ -6,6 +6,7 @@
 # isinstance() que efectivamente son de tipo Persona.
 # -------------------------------------------------------------------------
 
+
 class Persona:
     pass
 

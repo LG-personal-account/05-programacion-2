@@ -7,6 +7,7 @@
 # cada uno se presente.
 # -------------------------------------------------------------------------
 
+
 class Alumno:
 
     def __init__(self, nombre, edad, promedio):
@@ -19,6 +20,7 @@ class Alumno:
             f"Soy {self.nombre}, tengo {self.edad} años "
             f"y mi promedio es {self.promedio}"
         )
+
 
 ana = Alumno("Ana", 22, 8.5)
 juan = Alumno("Juan", 25, 7.2)

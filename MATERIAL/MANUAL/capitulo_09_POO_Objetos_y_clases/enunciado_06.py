@@ -5,6 +5,7 @@
 # de 300 páginas.
 # -------------------------------------------------------------------------
 
+
 class Libro:
 
     def __init__(self, titulo, autor, paginas):
@@ -20,6 +21,7 @@ class Libro:
 
     def es_extenso(self):
         return self.paginas > 300
+
 
 corto = Libro("El Aleph", "Borges", 224)
 largo = Libro("Rayuela", "Cortázar", 736)

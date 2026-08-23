@@ -5,6 +5,7 @@
 # (promedio >= 6).
 # -------------------------------------------------------------------------
 
+
 class Estudiante:
 
     def __init__(self, nombre):
@@ -28,6 +29,7 @@ class Estudiante:
 
     def esta_aprobado(self):
         return self.promedio() >= 6
+
 
 ana = Estudiante("Ana")
 

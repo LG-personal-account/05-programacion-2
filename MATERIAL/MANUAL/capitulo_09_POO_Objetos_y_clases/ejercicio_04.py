@@ -7,6 +7,7 @@
 # consulta.
 # -------------------------------------------------------------------------
 
+
 class Producto:
 
     def __init__(self, nombre, precio):
@@ -19,6 +20,7 @@ class Producto:
 
     def valor_stock(self):
         return self.precio * self.stock
+
 
 yerba = Producto("Yerba", 3500)
 

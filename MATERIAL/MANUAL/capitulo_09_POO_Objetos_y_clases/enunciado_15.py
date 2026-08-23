@@ -5,6 +5,7 @@
 # 3 años, Sueldo total: $52500.00".
 # -------------------------------------------------------------------------
 
+
 class Empleado:
 
     def __init__(self, nombre, sueldo_basico, antiguedad_anios):
@@ -24,6 +25,7 @@ class Empleado:
             f"Antigüedad: {self.antiguedad_anios} años - "
             f"Sueldo total: ${self.sueldo_total():.2f}"
         )
+
 
 juan = Empleado("Juan Pérez", 50000, 3)
 

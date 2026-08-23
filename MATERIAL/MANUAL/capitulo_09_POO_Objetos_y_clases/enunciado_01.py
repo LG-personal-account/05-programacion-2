@@ -5,6 +5,7 @@
 # mostrar() que imprima "({x}, {y})". Creá tres puntos y mostralos.
 # -------------------------------------------------------------------------
 
+
 class Punto:
 
     def __init__(self, x, y):
@@ -13,6 +14,7 @@ class Punto:
 
     def mostrar(self):
         print(f"({self.x}, {self.y})")
+
 
 p1 = Punto(3, 5)
 p2 = Punto(-1, 4)

@@ -7,6 +7,7 @@
 
 import math
 
+
 class Punto:
 
     def __init__(self, x, y):
@@ -19,6 +20,6 @@ class Punto:
     def distancia_al_origen(self):
         return math.sqrt(self.x ** 2 + self.y ** 2)
 
-p = Punto(3, 4)
 
+p = Punto(3, 4)
 print(p.distancia_al_origen())

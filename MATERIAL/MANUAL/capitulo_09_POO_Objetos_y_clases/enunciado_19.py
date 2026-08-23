@@ -5,6 +5,7 @@
 # Agregale métodos incrementar(), decrementar() y reiniciar().
 # -------------------------------------------------------------------------
 
+
 class Contador:
 
     def __init__(self):
@@ -21,6 +22,7 @@ class Contador:
 
     def __str__(self):
         return f"Contador: {self.valor}"
+
 
 c = Contador()
 

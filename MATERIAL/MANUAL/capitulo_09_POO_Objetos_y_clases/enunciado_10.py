@@ -5,6 +5,7 @@
 # circulando a 40 km/h".
 # -------------------------------------------------------------------------
 
+
 class Auto:
 
     def __init__(self, marca, modelo):
@@ -26,6 +27,7 @@ class Auto:
             f"{self.marca} {self.modelo} "
             f"circulando a {self.velocidad_actual} km/h"
         )
+
 
 focus = Auto("Ford", "Focus")
 

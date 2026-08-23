@@ -6,6 +6,7 @@
 # temperatura en esas escalas.
 # -------------------------------------------------------------------------
 
+
 class Termometro:
 
     def __init__(self, temperatura):
@@ -16,6 +17,7 @@ class Termometro:
 
     def a_kelvin(self):
         return self.temperatura + 273.15
+
 
 t = Termometro(25)
 

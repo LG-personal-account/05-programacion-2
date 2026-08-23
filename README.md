@@ -51,9 +51,13 @@ Todos los grupos recibirán el mismo problema y lo desarrollarán durante
 medida que se incorporen nuevos conceptos de Programación Orientada a
 Objetos.
 
-Las consignas y documentación común del proyecto se encuentran en:
+Las consignas y documentación del Proyecto Banco se encuentran en:
 
-[PROYECTOS/BANCO](PROYECTOS/BANCO/README.md)
+- [Proyecto Banco](PROYECTOS/BANCO/README.md)
+- [Iteración 1 — Clases y objetos](PROYECTOS/BANCO/ITERACION_01.md)
+
+Las siguientes iteraciones se publicarán progresivamente a medida que
+avancemos con los contenidos de la materia.
 
 ## Regla fundamental de las primeras cinco iteraciones
 

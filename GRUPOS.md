@@ -37,21 +37,7 @@ LÓPEZ María - 45678 - marialopez
 
 ## Comisión TUP11
 
-### Grupos TUP11
-
 <!-- Agregar los grupos de TUP11 debajo de esta línea -->
-**TUP11 - Grupo 1**
-**TUP11 - Grupo 2 **
-
-Integrantes:
-
-BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
-
-SALAS Ciro - 37044 - Github: CiroSalas
-
-ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
-
-
 
 ### TUP11 - Grupo 1
 
@@ -73,11 +59,22 @@ Rodolfo Zualet - 36622 - rzualet
 
 Sofia Reyna - 36600 - sofiabelenreyna-a11y
 
+### TUP11 - Grupo 3
+
+Integrantes:
+
+BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
+
+SALAS Ciro - 37044 - Github: CiroSalas
+
+ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
+
 ---
 
 ## Comisión TUP13
 
 <!-- Agregar los grupos de TUP13 debajo de esta línea -->
+
 ### TUP13 - Grupo 1
 
 Integrantes:
@@ -90,8 +87,6 @@ PATRICIO Pereyra Damian - 935586 - DamianPereyra-creator
 
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 
----
-
 ### TUP13 - Grupo 2
 
 Integrantes:
@@ -102,9 +97,12 @@ GOMEZ Santiago - 36715 - Santiago-Gomez14
 
 HARGUINDEGUY Camila - 36721
 
-OLIVA Nicolas - 
+OLIVA Nicolas -
 
----
+### TUP13 - Grupo 3
+
+Integrantes:
+
 AMANDOLA Santiago -  - SanMar-089
 
 PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
@@ -112,5 +110,3 @@ PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
 RODRIGUEZ Ariel Jacobo - 36606 - ArJacRod
 
 GALANT Luca - 935533 - LG-personal-account
-
-

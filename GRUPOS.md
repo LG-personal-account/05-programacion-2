@@ -110,3 +110,15 @@ PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
 RODRIGUEZ Ariel Jacobo - 36606 - ArJacRod
 
 GALANT Luca - 935533 - LG-personal-account
+
+### TUP13 - Grupo 4
+
+Integrantes:
+
+TISERA Camila - 36614 - CamilaTisera
+
+HERRERA Catalina - 36722 - herreracatalina
+
+LOREA Manuel - 36726 - dibulorea
+
+TOVIO Joaquin - 36615 - joacodust7

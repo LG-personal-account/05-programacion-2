@@ -43,7 +43,7 @@ LÓPEZ María - 45678 - marialopez
 
 Integrantes:
 
-CANALES Ignacio - 36851 - LeFlip
+CANALES Ignacio - 36851 - CANALESign
 
 BARRIENTOS Raquel - 36840 - Barrientos2001
 

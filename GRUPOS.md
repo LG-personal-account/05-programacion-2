@@ -105,6 +105,18 @@ KRMPOTIC Matías - 36724 - MatiasKrmpotic
 
 PINTO Tomás - 37102 - Tomipinto-716
 
+### TUP11 - Grupo 7
+
+Integrantes:
+
+RINGUELET Emilia - 36601 - emiliaringuelet
+
+ASNAGHI Catalina - 36836 - cataasnaghi08
+
+FERNANDEZ BOLLINI Tiago - 36709 - tiagofb
+
+SOTO Elio Agustin - 36612 - soto-agustin
+
 ---
 
 ## Comisión TUP13

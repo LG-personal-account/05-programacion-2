@@ -77,7 +77,7 @@ Integrantes:
 
 BALISTA Matias - 36838 - BalistaMatias
 
-VILLANUEVA Gonzalo - 36621 - gonzalituss7
+VILLANUEVA Gonzalo - 36621 - gonzalituss
 
 CARRION Nehuen - 36852 - newen07
 

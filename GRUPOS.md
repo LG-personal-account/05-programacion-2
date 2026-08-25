@@ -63,13 +63,13 @@ Sofia Reyna - 36600 - sofiabelenreyna-a11y
 
 Integrantes:
 
-BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
+BRUCART Lautaro - 36847 - Lautaro Brucart - trilaux
 
-SALAS Ciro - 37044 - Github: CiroSalas
+SALAS Ciro - 37044 - CiroSalas
 
-ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
+ANKUDOWICZ Azul Elena - 36832 - AzulAnku
 
-CALISTRO Dylan - 36849 - Github: dylancalistro
+CALISTRO Dylan - 36849 - dylancalistro
 
 ### TUP11 - Grupo 4
 

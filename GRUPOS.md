@@ -71,6 +71,21 @@ ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
 
 CALISTRO Dylan - 36849 - Github: dylancalistro
 
+Integrantes: 
+
+BALISTA Matias - 36838 - Github: BalistaMatias
+VILLANUEVA Gonzalo - 36621 - Github: gonzalituss7
+CARRION Nehuen - 36852 - Github: newen07
+ASCACIBAR Franco - 36835 - Github: FranascaUTN
+
+** TUP11 - Grupo 5 **
+
+Integrantes:
+
+BARBER Bruno Lautaro - 36839 - GitHub: Dextro25
+CARRIZO Juan Ignacio - 36853 - GitHub: JuanIgnacioCarrizo
+IRIBARREN Bautista - 37115 - GitHub: Bautista707
+GIOVANNINI Francisco - 37117 - GitHub: flipante
 ---
 
 ## Comisión TUP13

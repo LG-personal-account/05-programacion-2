@@ -44,19 +44,14 @@ LÓPEZ María - 45678 - marialopez
 Integrantes:
 
 CANALES Ignacio - 36851 - LeFlip
-
 BARRIENTOS Raquel - 36840 - Barrientos2001
-
 GREGORI Ariel - 36717 - Ari-GG1
 
 ### TUP11 - Grupo 2
 
 Nahuel Rubio - 36608 - nahuel-sng
-
 Pablo Courtis - 36862 - kourtis23
-
 Rodolfo Zualet - 36622 - rzualet
-
 Sofia Reyna - 36600 - sofiabelenreyna-a11y
 
 ### TUP11 - Grupo 3
@@ -64,28 +59,28 @@ Sofia Reyna - 36600 - sofiabelenreyna-a11y
 Integrantes:
 
 BRUCART Lautaro - 36847 - Github: Lautaro Brucart - trilaux
-
 SALAS Ciro - 37044 - Github: CiroSalas
-
 ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
-
 CALISTRO Dylan - 36849 - Github: dylancalistro
 
-Integrantes: 
-
-BALISTA Matias - 36838 - Github: BalistaMatias
-VILLANUEVA Gonzalo - 36621 - Github: gonzalituss7
-CARRION Nehuen - 36852 - Github: newen07
-ASCACIBAR Franco - 36835 - Github: FranascaUTN
-
-** TUP11 - Grupo 5 **
+### TUP11 - Grupo 4
 
 Integrantes:
 
-BARBER Bruno Lautaro - 36839 - GitHub: Dextro25
-CARRIZO Juan Ignacio - 36853 - GitHub: JuanIgnacioCarrizo
-IRIBARREN Bautista - 37115 - GitHub: Bautista707
-GIOVANNINI Francisco - 37117 - GitHub: flipante
+BALISTA Matias - 36838 - BalistaMatias
+VILLANUEVA Gonzalo - 36621 - gonzalituss7
+CARRION Nehuen - 36852 - newen07
+ASCACIBAR Franco - 36835 - FranascaUTN
+
+### TUP11 - Grupo 5
+
+Integrantes:
+
+BARBER Bruno Lautaro - 36839 - Dextro25
+CARRIZO Juan Ignacio - 36853 - JuanIgnacioCarrizo
+IRIBARREN Bautista - 37115 - Bautista707
+GIOVANNINI Francisco - 37117 - flipante
+
 ---
 
 ## Comisión TUP13
@@ -97,11 +92,8 @@ GIOVANNINI Francisco - 37117 - GitHub: flipante
 Integrantes:
 
 COELLO Palacios Helen - 36858 - helc25
-
 GONZALO Cayssials Nahuel - 36855 - Gonzadeveloper
-
 PATRICIO Pereyra Damian - 935586 - DamianPereyra-creator
-
 SUAREZ Juan Valentin - 36613 - JuanvaSS
 
 ### TUP13 - Grupo 2
@@ -109,11 +101,8 @@ SUAREZ Juan Valentin - 36613 - JuanvaSS
 Integrantes:
 
 FILARDO Hilda Aldana - filardohilda
-
 GOMEZ Santiago - 36715 - Santiago-Gomez14
-
 HARGUINDEGUY Camila - 36721
-
 OLIVA Nicolas -
 
 ### TUP13 - Grupo 3
@@ -121,11 +110,8 @@ OLIVA Nicolas -
 Integrantes:
 
 AMANDOLA Santiago -  - SanMar-089
-
 PASSARO Leandro Hugo - 36596 - lhpassaro-UTN
-
 RODRIGUEZ Ariel Jacobo - 36606 - ArJacRod
-
 GALANT Luca - 935533 - LG-personal-account
 
 ### TUP13 - Grupo 4
@@ -133,13 +119,9 @@ GALANT Luca - 935533 - LG-personal-account
 Integrantes:
 
 TISERA Camila - 36614 - CamilaTisera
-
 HERRERA Catalina - 36722 - herreracatalina
-
 LOREA Manuel - 36726 - dibulorea
-
 TOVIO Joaquin - 36615 - joacodust7
-
 
 ### TUP13 - Grupo 5
 
@@ -149,4 +131,3 @@ CASTRO Sanchez Liliana - 37099 - sanchezlylyana
 GRONDA Anabella - 36718 - AnaGronda
 MONLEZUN Neilen - 36734 - NeilenC
 ZOPPOLI Luciano - 37105 - luchozoppo
-

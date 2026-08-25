@@ -170,3 +170,12 @@ GRONDA Anabella - 36718 - AnaGronda
 MONLEZUN Neilen - 36734 - NeilenC
 
 ZOPPOLI Luciano - 37105 - luchozoppo
+### TUP13 - Grupo 6
+
+Integrantes:
+
+PANIN SUAREZ Julian - 36595 - julipaninsuarez-sys
+
+NADOR Kevin - 36584 - kevinnador
+
+FERIOLI Lucio - 36708 - ferioli02

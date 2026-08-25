@@ -77,7 +77,7 @@ Integrantes:
 
 BALISTA Matias - 36838 - BalistaMatias
 
-VILLANUEVA Gonzalo - 36621 - gonzalituss
+VILLANUEVA Gonzalo - 36621 - gonzalituss7
 
 CARRION Nehuen - 36852 - newen07
 
@@ -94,6 +94,16 @@ CARRIZO Juan Ignacio - 36853 - JuanIgnacioCarrizo
 IRIBARREN Bautista - 37115 - Bautista707
 
 GIOVANNINI Francisco - 37117 - flipante
+
+### TUP11 - Grupo 6
+
+Integrantes:
+
+SENESSI Lucas - 36610 - ashdiesalone
+
+KRMPOTIC Matías - 36724 - MatiasKrmpotic
+
+PINTO Tomás - 37102 - Tomipinto-716
 
 ---
 
